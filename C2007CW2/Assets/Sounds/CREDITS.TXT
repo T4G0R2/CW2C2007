@@ -1,0 +1,404 @@
+###############################################
+OpenGameArt.org automatically generated credits file notice:
+
+THIS FILE IS FOR INFORMATIONAL PURPOSES ONLY.  NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL OPENGAMEART.ORG BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE USE OF THIS FILE OR THE INFORMATION IN IT.
+
+In plain English:  This credits file is automatically generated to the best of our ability, but it remains YOUR RESPONSIBILITY as a game developer to ensure that the art you use is attributed properly.  That is, we can't be held liable even if all of the information in this file is completely wrong.   In addition, some of the art listed in this file may have SPECIAL ATTRIBUTION INSTRUCTIONS that ask that you credit the artist in a particular way, rather than a verbatim copyright notice.  In those cases, you will probably need to hand-edit this file to comply with their instructions.  In some older art, attribution instructions may be included in the art description itself.  Please check the art page to be sure.
+
+We recommend that you delete this notice when you're sure the information here is correct and the attribution instructions are properly followed.  If you aren't the game developer and you're seeing this notice here in the credits, it probably means that the developer hasn't properly verified the attribution information contained herein even though it said they were supposed to do it right on the page where they downloaded this file.  
+###############################################
+
+Title:
+    Different steps on wood, stone, leaves, gravel and mud
+
+Author:
+    TinyWorlds
+
+URL:
+    https://opengameart.org/content/different-steps-on-wood-stone-leaves-gravel-and-mud
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * [kdd]DifferentSteps.zip
+
+----------------------------------------
+
+Title:
+    Foot walking step sounds on stone, water, snow, wood and dirt
+
+Author:
+    Jute
+
+URL:
+    https://opengameart.org/content/foot-walking-step-sounds-on-stone-water-snow-wood-and-dirt
+
+License(s):
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+
+File(s):
+    * jute-dh-steps.7z
+
+----------------------------------------
+
+Title:
+    Grass Foot Step Sounds (Yo Frankie!)
+
+Author:
+    Blender Foundation
+
+URL:
+    https://opengameart.org/content/grass-foot-step-sounds-yo-frankie
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * sfx_step_grass_l.flac
+    * sfx_step_grass_r.flac
+
+----------------------------------------
+
+Title:
+    42 Snow and Gravel Footsteps
+
+Author:
+    Corsica_S
+
+URL:
+    https://opengameart.org/content/42-snow-and-gravel-footsteps
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * corsica_s-walking_in_snow.7z
+
+----------------------------------------
+
+Title:
+    9 wet snow steps
+
+Author:
+    qubodup
+
+URL:
+    https://opengameart.org/content/9-wet-snow-steps
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * qubodup-wet_snow_steps.7z
+
+----------------------------------------
+
+Title:
+    4 dry snow steps
+
+Author:
+    qubodup
+
+URL:
+    https://opengameart.org/content/4-dry-snow-steps
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * qubodup-snow_steps_dry_0.7z
+
+----------------------------------------
+
+Title:
+    Step sound (walking)
+
+Author:
+    IgnasD
+
+URL:
+    https://opengameart.org/content/step-sound-walking
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+
+File(s):
+    * Ejimas1.zip
+
+----------------------------------------
+
+Title:
+    Walking on snow sound
+
+Author:
+    IgnasD
+
+URL:
+    https://opengameart.org/content/walking-on-snow-sound
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * SnowWalk.zip
+
+----------------------------------------
+
+Title:
+    Rock Walk Step Sound (Yo Frankie!)
+
+Author:
+    Blender Foundation
+
+URL:
+    https://opengameart.org/content/rock-walk-step-sound-yo-frankie
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * sfx_step_rock_l.flac
+    * sfx_step_rock_r.flac
+
+----------------------------------------
+
+Title:
+    Water Step Splashes (Yo Frankie!)
+
+Author:
+    Blender Foundation
+
+URL:
+    https://opengameart.org/content/water-step-splashes-yo-frankie
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * sfx_step_water_l.flac
+    * sfx_step_water_r.flac
+
+----------------------------------------
+
+Title:
+    41 snow shoe steps
+
+Author:
+    Corsica_S
+
+URL:
+    https://opengameart.org/content/41-snow-shoe-steps
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * corsica_s-snow_shoes.7z
+
+----------------------------------------
+
+Title:
+    Sand Step Movement Sounds (Yo Frankie!)
+
+Author:
+    Blender Foundation
+
+URL:
+    https://opengameart.org/content/sand-step-movement-sounds-yo-frankie
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * sfx_step_sand_l.flac
+    * sfx_step_sand_r.flac
+
+----------------------------------------
+
+Title:
+    Mech Stomp / Step Sound
+
+Author:
+    hc
+
+Collaborators:
+    qubodup
+
+URL:
+    https://opengameart.org/content/mech-stomp-step-sound
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Do what you want with them or see the license as "Public Domain Dedication" or "CC0".
+
+File(s):
+    * stomp.flac
+
+----------------------------------------
+
+Title:
+    Footsteps
+
+Author:
+    spookymodem
+
+URL:
+    https://opengameart.org/content/footsteps
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * Footsteps.wav
+
+----------------------------------------
+
+Title:
+    Sound Effects Pack
+
+Author:
+    OwlishMedia
+
+URL:
+    https://opengameart.org/content/sound-effects-pack
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * Owlish Media Sound Effects.zip
+
+----------------------------------------
+
+Title:
+    Walking in and out through wooden stairs
+
+Author:
+    Gallaecio
+
+URL:
+    https://opengameart.org/content/walking-in-and-out-through-wooden-stairs
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+
+File(s):
+    * wooden-stairs-in-and-out.7z
+
+----------------------------------------
+
+Title:
+    Stone stair steps
+
+Author:
+    dorkster
+
+URL:
+    https://opengameart.org/content/stone-stair-steps
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+
+File(s):
+    * stairs.ogg
+
+----------------------------------------
+
+Title:
+    Footsteps Leather, Cloth, Armor
+
+Author:
+    HaelDB
+
+URL:
+    https://opengameart.org/content/footsteps-leather-cloth-armor
+
+License(s):
+    * OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * footsteps.zip
+
+----------------------------------------
+
+Title:
+    Platformer Sounds: Terminal, Interaction, Door, Shots, Bang and Footsteps
+
+Author:
+    yd
+
+URL:
+    https://opengameart.org/content/platformer-sounds-terminal-interaction-door-shots-bang-and-footsteps
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * yd-Sounds.zip
+
+----------------------------------------
+
+Title:
+    Fantozzi&#039;s Footsteps (Grass/Sand & Stone)
+
+Author:
+    Fantozzi
+
+URL:
+    https://opengameart.org/content/fantozzis-footsteps-grasssand-stone
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * Fantozzi-footsteps.7z
+
+----------------------------------------
+
+Title:
+    Random Sounds Samples
+
+Author:
+    Augmentality (Brandon Morris)
+
+URL:
+    https://opengameart.org/content/random-sounds-samples
+
+License(s):
+    * OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * cricket ambienc276.ogg
+    * full steps stereo.ogg
+    * moving leaves stereo.ogg
+    * dog barking.ogg
+    * foot left stereo.ogg
+
+----------------------------------------
+
+Title:
+    25 CC0 mud sfx
+
+Author:
+    rubberduck
+
+URL:
+    https://opengameart.org/content/25-cc0-mud-sfx
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * 25-CC0-mud-sfx.zip
+
+----------------------------------------
+
+
