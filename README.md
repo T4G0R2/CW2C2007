@@ -17,3 +17,6 @@ Extract the game and run C2007CW2.exe
 
 Walking sounds by TinyWorlds (https://opengameart.org/content/different-steps-on-wood-stone-leaves-gravel-and-mud) (License included in assets/sounds/Credits.txt)
 Rest of the sounds were downloaded from https://mixkit.co/
+
+# Itch.io page
+https://t4g0r.itch.io/run
